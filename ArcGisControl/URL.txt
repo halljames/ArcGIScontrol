@@ -1,0 +1,2 @@
+http://www.sunderland.gov.uk/LocalViewExt/ArcGIS/Rest/Services/31234cdc-e421-4ae1-8f7e-1a3a5ba75fb3/MapServer
+http://www.sunderland.gov.uk/LocalViewExt/ArcGIS/rest/services/BaseMaps/MapServer

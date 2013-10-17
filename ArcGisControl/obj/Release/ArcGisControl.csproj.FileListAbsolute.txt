@@ -1,0 +1,7 @@
+C:\Users\James\Documents\Visual Studio 2010\Projects\ArcGisControl\ArcGisControl\bin\Release\ArcGisControl.dll
+C:\Users\James\Documents\Visual Studio 2010\Projects\ArcGisControl\ArcGisControl\bin\Release\ArcGisControl.pdb
+C:\Users\James\Documents\Visual Studio 2010\Projects\ArcGisControl\ArcGisControl\obj\Release\ArcGisControl.ArcGisMap.resources
+C:\Users\James\Documents\Visual Studio 2010\Projects\ArcGisControl\ArcGisControl\obj\Release\ArcGisControl.GoogleMap.resources
+C:\Users\James\Documents\Visual Studio 2010\Projects\ArcGisControl\ArcGisControl\obj\Release\ArcGisControl.csproj.GenerateResource.Cache
+C:\Users\James\Documents\Visual Studio 2010\Projects\ArcGisControl\ArcGisControl\obj\Release\ArcGisControl.dll
+C:\Users\James\Documents\Visual Studio 2010\Projects\ArcGisControl\ArcGisControl\obj\Release\ArcGisControl.pdb

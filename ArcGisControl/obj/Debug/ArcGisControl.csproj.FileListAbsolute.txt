@@ -1,0 +1,16 @@
+c:\users\james\documents\visual studio 2010\Projects\ArcGisControl\ArcGisControl\bin\Debug\ArcGisControl.dll
+c:\users\james\documents\visual studio 2010\Projects\ArcGisControl\ArcGisControl\bin\Debug\ArcGisControl.pdb
+c:\users\james\documents\visual studio 2010\Projects\ArcGisControl\ArcGisControl\obj\Debug\ArcGisControl.ArcGisMap.resources
+c:\users\james\documents\visual studio 2010\Projects\ArcGisControl\ArcGisControl\obj\Debug\ArcGisControl.csproj.GenerateResource.Cache
+c:\users\james\documents\visual studio 2010\Projects\ArcGisControl\ArcGisControl\obj\Debug\ArcGisControl.dll
+c:\users\james\documents\visual studio 2010\Projects\ArcGisControl\ArcGisControl\obj\Debug\ArcGisControl.pdb
+C:\Users\James\Documents\Visual Studio 2010\Projects\ArcGisControl\ArcGisControl\obj\Debug\ArcGisControl.googleMap.resources
+E:\Work\Visual Studio 2010\Projects\ArcGisControl\ArcGisControl\bin\Debug\ArcGisControl.dll
+E:\Work\Visual Studio 2010\Projects\ArcGisControl\ArcGisControl\bin\Debug\ArcGisControl.pdb
+E:\Work\Visual Studio 2010\Projects\ArcGisControl\ArcGisControl\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Visual Studio 2010\Projects\ArcGisControl\ArcGisControl\obj\Debug\ArcGisControl.ArcGisMap.resources
+E:\Work\Visual Studio 2010\Projects\ArcGisControl\ArcGisControl\obj\Debug\ArcGisControl.GoogleMap.resources
+E:\Work\Visual Studio 2010\Projects\ArcGisControl\ArcGisControl\obj\Debug\GenerateResource.read.1.tlog
+E:\Work\Visual Studio 2010\Projects\ArcGisControl\ArcGisControl\obj\Debug\GenerateResource.write.1.tlog
+E:\Work\Visual Studio 2010\Projects\ArcGisControl\ArcGisControl\obj\Debug\ArcGisControl.dll
+E:\Work\Visual Studio 2010\Projects\ArcGisControl\ArcGisControl\obj\Debug\ArcGisControl.pdb
